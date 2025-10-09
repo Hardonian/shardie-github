@@ -46,8 +46,6 @@ Each agent is **ready to remix, adapt, and deploy** into workflows for business 
 - [**eCommerce-Manager**](https://github.com/shardie-github/eCommerce-Manager): AI-powered commerce operations  
 - [**AI-Agent-Portfolio**](https://github.com/shardie-github/AI-Agent-Portfolio): Living collection of practical AI agents  
 - [**hardonia-intel-scraper**](https://github.com/shardie-github/hardonia-intel-scraper): Automated intelligence for open research  
-- [**DeepCode**](https://github.com/shardie-github/DeepCode): Intelligent code and content analysis
-
 ---
 
 ## 📫 Contact
